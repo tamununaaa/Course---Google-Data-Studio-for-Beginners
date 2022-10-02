@@ -8,7 +8,8 @@ Google Data Studio makes it a breeze to create engaging, interactive, and beauti
 
 
 ### Skills covered
-Google Data Studio\
+Google Data Studio
+
 
 
 ### Link to view report
