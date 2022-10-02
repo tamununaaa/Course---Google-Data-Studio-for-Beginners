@@ -1,1 +1,1 @@
-# Course-Google-Data-Studio-for-Beginners
+# Course - Google Data Studio for Beginners
